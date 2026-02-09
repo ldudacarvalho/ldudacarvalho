@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/29/59/ee/2959ee7f5e8196bdb3ecc70691c19e51.gif" alt="GIF Programando" />
 
 <p align="left">
-Oi! Eu sou a Maria Eduarda, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UnilaSalle, por meio do Prouni.<br><br>
+Oi! Eu sou a Maria Eduarda, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estava cursando Análise e Desenvolvimento de Sistemas na UnilaSalle e migrei para Engenharia de Software, por meio do Prouni.<br><br>
 A tecnologia sempre me encantou, mas hoje ela é mais que um interesse: é meu caminho. Estou me formando para construir soluções que realmente façam diferença, unindo lógica, criatividade e código.
 </p>
 
